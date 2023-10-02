@@ -1,0 +1,25 @@
+@media (max-width: 1123px) {
+
+    body {
+        background: url(../images/bg-mobile.svg);
+        background-color: var(--violet);
+        background-repeat: no-repeat;
+        width: 100px;
+    }
+
+  
+    .main {
+        j;
+    }
+
+    .main .img-main img {
+     width: 400px;
+     height: 400px;
+     max-width: 100%;
+     ;
+     
+    
+
+    }
+
+}
